@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PJScenes/Main.unity
+    guid: 2eb7e7150cac62840b946897d980aa54
+  - enabled: 1
+    path: Assets/PJScenes/Scene 2.unity
+    guid: 7a3c47f1822f64a56b5f63ed00d15d2a
   m_configObjects: {}
